@@ -38,7 +38,7 @@ This is what that would look like.
 ClassName VariableName = new ClassName();
 ```
 
-In [Program.cs](https://github.com/fslcoding/Classes_CS/blob/main/Car.cs "Program Class"), we create an object of the ```Car``` class.
+In [Program.cs](https://github.com/fslcoding/Classes_CS/blob/main/Program.cs "Program Class"), we create an object of the ```Car``` class.
 
 ```
 Car Ferrari = new Car();
