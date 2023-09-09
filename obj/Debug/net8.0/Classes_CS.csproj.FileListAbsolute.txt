@@ -1,0 +1,15 @@
+C:\Users\elliot alderson\Documents\GitHub\Classes_CS\obj\Debug\net8.0\Classes_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elliot alderson\Documents\GitHub\Classes_CS\obj\Debug\net8.0\Classes_CS.AssemblyInfoInputs.cache
+C:\Users\elliot alderson\Documents\GitHub\Classes_CS\obj\Debug\net8.0\Classes_CS.AssemblyInfo.cs
+C:\Users\elliot alderson\Documents\GitHub\Classes_CS\obj\Debug\net8.0\Classes_CS.csproj.CoreCompileInputs.cache
+C:\Users\elliot alderson\Documents\GitHub\Classes_CS\obj\Debug\net8.0\Classes_CS.sourcelink.json
+C:\Users\elliot alderson\Documents\GitHub\Classes_CS\bin\Debug\net8.0\Classes_CS.exe
+C:\Users\elliot alderson\Documents\GitHub\Classes_CS\bin\Debug\net8.0\Classes_CS.deps.json
+C:\Users\elliot alderson\Documents\GitHub\Classes_CS\bin\Debug\net8.0\Classes_CS.runtimeconfig.json
+C:\Users\elliot alderson\Documents\GitHub\Classes_CS\bin\Debug\net8.0\Classes_CS.dll
+C:\Users\elliot alderson\Documents\GitHub\Classes_CS\bin\Debug\net8.0\Classes_CS.pdb
+C:\Users\elliot alderson\Documents\GitHub\Classes_CS\obj\Debug\net8.0\Classes_CS.dll
+C:\Users\elliot alderson\Documents\GitHub\Classes_CS\obj\Debug\net8.0\refint\Classes_CS.dll
+C:\Users\elliot alderson\Documents\GitHub\Classes_CS\obj\Debug\net8.0\Classes_CS.pdb
+C:\Users\elliot alderson\Documents\GitHub\Classes_CS\obj\Debug\net8.0\Classes_CS.genruntimeconfig.cache
+C:\Users\elliot alderson\Documents\GitHub\Classes_CS\obj\Debug\net8.0\ref\Classes_CS.dll
