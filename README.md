@@ -83,7 +83,7 @@ The above error occured because **_members, by default, are private_**
 
 </details>
 
-### Changing / running a classes' members
+### Modifing a classes' members
 
 Changing a classes' variable or _property_
 ```
